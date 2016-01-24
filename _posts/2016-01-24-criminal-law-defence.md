@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T12:55:35.284Z'
-dateModified: '2016-01-24T12:55:28.454Z'
+datePublished: '2016-01-24T12:56:11.473Z'
+dateModified: '2016-01-24T12:56:07.911Z'
 title: Criminal Law Defence
 author: []
 sourcePath: _posts/2016-01-24-criminal-law-defence.md
