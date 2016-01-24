@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T12:52:24.023Z'
-dateModified: '2016-01-24T12:49:40.636Z'
+datePublished: '2016-01-24T12:55:35.234Z'
+dateModified: '2016-01-24T12:55:28.454Z'
 title: Criminal Law Defence
 author: []
+sourcePath: _posts/2016-01-24-criminal-law-defence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-criminal-law-defence.md
-published: true
 url: criminal-law-defence/index.html
 _type: Article
 
@@ -25,13 +25,13 @@ _type: Article
 ## LITIGATION EXPERIENCED WITH PROVEN RESULTS.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1dbfe64-438c-4c8f-9b98-e0d87012acfe.png)
 
-### WE ACCEPT[**LEGAL AID**CERTIFICATES][0].
+### WE ACCEPT [**LEGAL AID **CERTIFICATES][0].
 
 # Criminal Law Defence
 
-**DUVADIE Barrister and Solicitor**is**_for YOUR defence_.**
+**DUVADIE Barrister and Solicitor **is **_for YOUR defence_.**
 
-**DUVADIE Law Office**provides 30 minutes of**FREE LEGAL Consultation**on criminal law related charges .
+**DUVADIE Law Office **provides 30 minutes of **FREE LEGAL Consultation **on criminal law related charges .
 
 [Find out how we can help in Criminal Law Defence.][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/affadd8a-f384-4317-9bf9-8a268a5c1c37.jpg)
