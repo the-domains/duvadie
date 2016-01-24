@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T12:56:11.481Z'
+datePublished: '2016-01-24T12:56:11.561Z'
 dateModified: '2016-01-24T12:56:07.911Z'
 title: Criminal Law Defence
 author: []
